@@ -23,7 +23,7 @@ This Bot is Created by StarzProject, If your kanging this without fork at least 
 - Innexia
 ```
 
-## Credits Luna Robot💫
+## Credits alexa bot💫
 
 - [stargirl](https://github/stargirlxd) ``Dev``
 - [Original Repo](https://github.com/TeamDeeCode/innexia) ``Innexia``
