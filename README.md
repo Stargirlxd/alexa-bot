@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/e052e680ba705b7ed7be5.jpg">
+  <img src=">
 <h1 align="center"><b> alexa bot </b></h1>
 </p>
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
@@ -10,10 +10,10 @@
   <a href="https://github.com/stargirlxd/alexabot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
   <a href="https://t.me/starz_bots"><img src="https://img.shields.io/badge/Join-starz%20bots-red.svg?logo=Telegram"></a>
   <a href="https://t.me/starz_support"><img src="https://img.shields.io/badge/Join-starz%20Support-blue.svg?logo=telegram"></a>
-  <a href="https://t.me/tdrki_1"><img src="https://img.shields.io/badge/Developer-alexa%20bot-blue.svg?logo=telegram"></a>
+  <a href="https://t.me/itzstargirl_1"><img src="https://img.shields.io/badge/Developer-alexa%20bot-blue.svg?logo=telegram"></a>
 
 
-### Available on Telegram as [@lunatapibot](https://t.me/lunatapibot)
+### Available on Telegram as [@thealexa_bot](https://t.me/lunatapibot)
 
 ### DEPLOY TO HEROKU⤵️
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/stargirlxd/alexabot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
@@ -25,5 +25,5 @@ This Bot is Created by StarzProject, If your kanging this without fork at least 
 
 ## Credits Luna Robot💫
 
-- [Zeinzo](https://github/stargirlxd) ``Dev``
+- [stargirl](https://github/stargirlxd) ``Dev``
 - [Original Repo](https://github.com/TeamDeeCode/innexia) ``Innexia``
